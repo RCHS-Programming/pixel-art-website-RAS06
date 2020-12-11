@@ -5,6 +5,6 @@
 
 Try copying and pasting rather than typing everything out.
 
-![screenshot](images/pixel-art-grid-8.png)
+![screenshot](../images/pixel-art-grid-8.png)
 
 --- /challenge ---
